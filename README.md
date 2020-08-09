@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[![bingbing-ba's github stats](https://github-readme-stats.vercel.app/api?username=bingbing-ba)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **bingbing-ba/bingbing-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
